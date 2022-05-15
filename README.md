@@ -25,6 +25,5 @@ Writing Period_SumAttendZone.png...
 | Zone05            | 92,572 / 615,460   (15%)  | 726 / 1,012     (72%)   |
 | Zone06            | 84,752 / 767,153   (11%)  | 696 / 1,101     (63%)   |
 | BKK Election 2565 | 608,942 / 4,411,768 (14%) | 4,861 / 6,817     (71%) |
-******************************* End OnePage ******************************
 
 ![Alt text](https://github.com/phisan-chula/BBKK65_VOTER_ATTEND/blob/main/Period_SumAttendZone.png?raw=true "BKK Election 2565 Voter Attended")
