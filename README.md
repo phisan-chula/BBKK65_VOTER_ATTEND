@@ -1,6 +1,7 @@
 # BBKK65_VOTER_ATTEND
 
 https://forms.gle/RHAWyeAyYVnnHFb86
+![Alt text](https://github.com/phisan-chula/BBKK65_VOTER_ATTEND/blob/main/Front_End_BBKK_Voter_Attend.PNG?raw=true "")
 
 GForm Reponse updated at   : 13:04<br/>
 OnePage processed at       : 22:58<br/>
@@ -17,4 +18,4 @@ Writing Period_SumAttendZone.png...<br/>
 | Zone06            | 89,710 / 767,153   (12%)  | 707 / 1,101     (64%)   |
 | BKK Election 2565 | 620,136 / 4,411,768 (14%) | 4,871 / 6,817     (71%) |
 
-![Alt text](https://github.com/phisan-chula/BBKK65_VOTER_ATTEND/blob/main/Period_SumAttendZone.png?raw=true "BKK Election 2565 Voter Attended")
+![Alt text](https://github.com/phisan-chula/BBKK65_VOTER_ATTEND/blob/main/Period_SumAttendZone.png?raw=true "")
