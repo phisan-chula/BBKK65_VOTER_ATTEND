@@ -1,19 +1,19 @@
 # BBKK65_VOTER_ATTEND
 
-GForm Reponse updated at   : 12:30<br/>
-OnePage processed at       : 12:30<br/>
-Number of GFORM responses  : 5,276<br/>
-Number of reporting  units : 2,928 of 6,817...<br/>
+GForm Reponse updated at   : 14:01<br/>
+OnePage processed at       : 14:01<br/>
+Number of GFORM responses  : 7,184<br/>
+Number of reporting  units : 3,550 of 6,817...<br/>
 Writing Period_SumAttendZone.png...<br/>
-| BMA_Zone      | Voter Attended            | Units Reporting         |
-|---------------|---------------------------|-------------------------|
-| Zone01        | 54,043 / 193,105   (28%)  | 323 / 828       (39%)   |
-| Zone02        | 78,492 / 336,102   (23%)  | 575 / 1,055     (55%)   |
-| Zone03        | 90,388 / 335,406   (27%)  | 492 / 1,262     (39%)   |
-| Zone04        | 84,354 / 330,617   (26%)  | 494 / 1,559     (32%)   |
-| Zone05        | 91,450 / 331,814   (28%)  | 542 / 1,012     (54%)   |
-| Zone06        | 84,055 / 338,947   (25%)  | 502 / 1,101     (46%)   |
-| All BMA Zones | 482,782 / 1,865,991 (26%) | 2,928 / 6,817     (43%) |
+| BMA_Zone         | Voter Attended            | Units Reporting         |
+|------------------|---------------------------|-------------------------|
+| Zone01           | 74,190 / 259,944   (29%)  | 433 / 828       (52%)   |
+| Zone02           | 105,391 / 379,886   (28%) | 650 / 1,055     (62%)   |
+| Zone03           | 129,457 / 420,426   (31%) | 621 / 1,262     (49%)   |
+| Zone04           | 134,066 / 438,131   (31%) | 655 / 1,559     (42%)   |
+| Zone05           | 118,397 / 370,755   (32%) | 604 / 1,012     (60%)   |
+| Zone06           | 112,721 / 400,936   (28%) | 587 / 1,101     (53%)   |
+| BBKK Estimation: | 674,222 / 2,270,078 (30%) | 3,550 / 6,817     (52%) |
 
 ![Alt text](https://github.com/phisan-chula/BBKK65_VOTER_ATTEND/blob/main/Period_SumAttendZone.png?raw=true "")
 
