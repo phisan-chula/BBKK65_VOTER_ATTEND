@@ -1,9 +1,5 @@
 # BBKK65_VOTER_ATTEND
 
-################# Realtime BMA Vote Monitoring ######################
-##################### PSN-GIS&IT@BetterBkk ##########################
-######################### Mode : VOTER_ATTEND ##########################
-Reading from cached "CACHE/VoterAttend.bz2"...
 GForm Reponse updated at   : 17:29<br/>
 OnePage processed at       : 17:50<br/>
 Number of GFORM responses  : 15,864<br/>
