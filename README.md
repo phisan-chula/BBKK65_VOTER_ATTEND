@@ -15,6 +15,7 @@ Writing Period_SumAttendZone.png...<br/>
 | Zone05           | 223,605 / 423,193   (53%)   | 691 / 1,012     (68%)   |
 | Zone06           | 267,044 / 518,055   (52%)   | 753 / 1,101     (68%)   |
 | BBKK Estimation: | 1,496,131 / 2,961,579 (51%) | 4,605 / 6,817     (68%) |
+
 *** Estimated BMA election attendants : 2,228,737  of  4,411,768<br/>
 
 ![Alt text](https://github.com/phisan-chula/BBKK65_VOTER_ATTEND/blob/main/Period_SumAttendZone.png?raw=true "")
