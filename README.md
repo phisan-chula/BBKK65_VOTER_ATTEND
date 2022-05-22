@@ -1,20 +1,19 @@
 # BBKK65_VOTER_ATTEND
 
-Reading from cached "CACHE/VoterAttend.bz2"...
-GForm Reponse updated at   : 11:00<br/>
-OnePage processed at       : 11:01<br/>
-Number of GFORM responses  : 2,109<br/>
-Number of reporting  units : 1,707 of 6,817...<br/>
+GForm Reponse updated at   : 12:30<br/>
+OnePage processed at       : 12:30<br/>
+Number of GFORM responses  : 5,276<br/>
+Number of reporting  units : 2,928 of 6,817...<br/>
 Writing Period_SumAttendZone.png...<br/>
-| BMA_Zone          | Voter Attended            | Units Reporting         |
-|-------------------|---------------------------|-------------------------|
-| Zone01            | 14,435 / 495,319   ( 3%)  | 144 / 828       (17%)   |
-| Zone02            | 34,855 / 616,312   ( 6%)  | 418 / 1,055     (40%)   |
-| Zone03            | 29,149 / 855,416   ( 3%)  | 219 / 1,262     (17%)   |
-| Zone04            | 44,202 / 1,062,108 ( 4%)  | 279 / 1,559     (18%)   |
-| Zone05            | 43,454 / 615,460   ( 7%)  | 391 / 1,012     (39%)   |
-| Zone06            | 24,375 / 767,153   ( 3%)  | 256 / 1,101     (23%)   |
-| BKK Election 2565 | 190,470 / 4,411,768 ( 4%) | 1,707 / 6,817     (25%) |
+| BMA_Zone      | Voter Attended            | Units Reporting         |
+|---------------|---------------------------|-------------------------|
+| Zone01        | 54,043 / 193,105   (28%)  | 323 / 828       (39%)   |
+| Zone02        | 78,492 / 336,102   (23%)  | 575 / 1,055     (55%)   |
+| Zone03        | 90,388 / 335,406   (27%)  | 492 / 1,262     (39%)   |
+| Zone04        | 84,354 / 330,617   (26%)  | 494 / 1,559     (32%)   |
+| Zone05        | 91,450 / 331,814   (28%)  | 542 / 1,012     (54%)   |
+| Zone06        | 84,055 / 338,947   (25%)  | 502 / 1,101     (46%)   |
+| All BMA Zones | 482,782 / 1,865,991 (26%) | 2,928 / 6,817     (43%) |
 
 ![Alt text](https://github.com/phisan-chula/BBKK65_VOTER_ATTEND/blob/main/Period_SumAttendZone.png?raw=true "")
 
