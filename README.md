@@ -1,6 +1,5 @@
 # BBKK65_VOTER_ATTEND
 
-Reading from cached "CACHE/VoterAttend.bz2"...
 GForm Reponse updated at   : 09:18<br/>
 OnePage processed at       : 09:26<br/>
 Number of GFORM responses  : 31<br/>
