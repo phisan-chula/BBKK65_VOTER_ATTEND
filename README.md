@@ -1,8 +1,7 @@
 # BBKK65_VOTER_ATTEND
 
-Reading from cached "CACHE/VoterAttend.bz2"...
 GForm Reponse updated at   : 21:59<br/>
-OnePage processed at       : 22:15<br/>
+OnePage processed at       : 09:51<br/>
 Number of GFORM responses  : 16,524<br/>
 Number of reporting  units : 4,605 of 6,817...<br/>
 Writing Period_SumAttendZone.png...<br/>
